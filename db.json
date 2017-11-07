@@ -1,0 +1,136 @@
+{	"users":
+	{
+		"resultData": [
+			{
+				"sourceId": "115109",
+				"firstName": "Robyn",
+				"lastName": "Christopher",
+				"emailAddress": "robyn.christopher@hps294.us",
+				"matches": [
+					{
+						"personId": 113925,
+						"firstName": "Regina(scrubbed)",
+						"lastName": "Cho",
+						"emailAddress": "Regina_Cho85717@nosmtp.k12.com",
+						"dateOfBirth": "1993-05-17 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 67.5,
+						"match": false
+					},
+					{
+						"personId": 113912,
+						"firstName": "Jonathan(scrubbed)",
+						"lastName": "Chio",
+						"emailAddress": "Jonathan_Chio85565@nosmtp.k12.com",
+						"dateOfBirth": "1994-08-17 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 66.5,
+						"match": false
+					},
+					{
+						"personId": 113926,
+						"firstName": "Yohan(scrubbed)",
+						"lastName": "Cho",
+						"emailAddress": "Yohan_Cho85727@nosmtp.k12.com",
+						"dateOfBirth": "1995-07-07 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 65.5,
+						"match": false
+					},
+					{
+						"personId": 113924,
+						"firstName": "John(scrubbed)",
+						"lastName": "Cho",
+						"emailAddress": "John_Cho85702@nosmtp.k12.com",
+						"dateOfBirth": "1993-01-24 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 65.5,
+						"match": false
+					},
+					{
+						"personId": 113923,
+						"firstName": "Hye Jin(scrubbed)",
+						"lastName": "Cho",
+						"emailAddress": "HyeJin_Cho85690@nosmtp.k12.com",
+						"dateOfBirth": "1993-10-13 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 65,
+						"match": false
+					},
+					{
+						"personId": 52814,
+						"firstName": "Elton(scrubbed)",
+						"lastName": "Choi",
+						"emailAddress": "Elton_Choi85985@nosmtp.k12.com",
+						"dateOfBirth": "1994-01-17 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 63.5,
+						"match": false
+					}
+				],
+				"success": true
+			},
+			{
+				"sourceId": "132787",
+				"firstName": "Sandra",
+				"lastName": "Wortman",
+				"emailAddress": "Swortman@caliva.org",
+				"matches": [
+					{
+						"personId": 114110,
+						"firstName": "Samantha(scrubbed)",
+						"lastName": "Dorman",
+						"emailAddress": "Samantha_Dorman88303@nosmtp.k12.com",
+						"dateOfBirth": "1995-06-07 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 77,
+						"match": false
+					},
+					{
+						"personId": 115307,
+						"firstName": "Alexander(scrubbed)",
+						"lastName": "Notman",
+						"emailAddress": "Alexander_Notman105959@nosmtp.k12.com",
+						"dateOfBirth": "1996-05-31 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 73,
+						"match": false
+					},
+					{
+						"personId": 114111,
+						"firstName": "Samantha(scrubbed)",
+						"lastName": "Dormanesh",
+						"emailAddress": "Samantha_Dormanesh88316@nosmtp.k12.com",
+						"dateOfBirth": "1994-10-10 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 72.5,
+						"match": false
+					},
+					{
+						"personId": 114237,
+						"firstName": "Hannah(scrubbed)",
+						"lastName": "Foreman",
+						"emailAddress": "Hannah_Foreman90229@nosmtp.k12.com",
+						"dateOfBirth": "1996-05-15 00:00:00",
+						"institutionId": 716,
+						"matchingScore": 67.5,
+						"match": false
+					},
+					{
+						"personId": 37319,
+						"firstName": "Max(scrubbed)",
+						"lastName": "Dorman",
+						"emailAddress": "Max_Dorman26392@nosmtp.k12.com",
+						"dateOfBirth": null,
+						"institutionId": 716,
+						"matchingScore": 66.5,
+						"match": false
+					}
+				],
+				"success": true
+			}
+		],
+		"success": true,
+		"resultMessage": "Merge and Match process has been success."
+	}
+}
